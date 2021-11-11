@@ -7,7 +7,7 @@ Este repositório foi criado com intuito de disponibilizar os pré-requisitos e 
 
 Sistema de boleto de cobrança (com autenticação)
 
-Desenvolva uma **RESTFul API** voltada para usuários cobrarem seus pagadores onde os mesmos poderão criar, editar, excluir e listar boletos e os pagadores. A API deverá ser desenvolvida em **.NET**, em qualquer framework de sua preferência. 
+Desenvolva uma **RESTFul API** voltada para usuários cobrarem seus pagadores onde os mesmos poderão criar, editar, excluir e listar boletos e os pagadores. A API deverá ser desenvolvida em **.NET**. 
 
 É de suma importância se utilizar das melhores práticas para um projeto seguro e organizado, como a utilização de **controllers**, **models**, **middlewares** ou semelhantes, controle de exceções, utilização de um **ORM** (*Object Relational Mapper*) para operações de banco de dados *(Eloquent, Doctrine ou outro*). Utilize um **banco de dados relacional** para persistir os dados da aplicação (*SQL Server, Postgresql ou MySQL de preferência*).
 
